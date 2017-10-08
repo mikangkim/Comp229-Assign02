@@ -20,7 +20,7 @@
 
         <p> Thank you for your precious time for us. Do you want to learn more about KungFu? Check this out! </p>
             <a class="btn btn-default" href="https://www.youtube.com/watch?v=iSTCWH_4KCQ">More About KungFu &raquo;</a>
-            <a class="btn btn-default color" href="~/Default">Back to Home &raquo;</a>
+            <a class="btn btn-default color" href="http://localhost:53811">Back to Home &raquo;</a>
    
     </div>
 </asp:Content>

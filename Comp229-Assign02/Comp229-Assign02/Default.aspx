@@ -3,6 +3,8 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <link rel="stylesheet" type="text/css" href="~/CssPage/PersonalStyle.css">   
+        <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 
     <div class="jumbotron" style="background-color:black;">
 

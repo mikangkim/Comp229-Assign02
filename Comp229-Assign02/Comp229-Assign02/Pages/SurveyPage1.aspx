@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="MKA SURVERY" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="SurveyPage1.aspx.cs" Inherits="Comp229_Assign02.Pages.SurveyPage1" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+            <link rel="icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     <div class="surveyDiv">
         <h2><%: Title %></h2>
         <p>Please answer all required questions before pressing submit. **this a is mandatory field**</p>
